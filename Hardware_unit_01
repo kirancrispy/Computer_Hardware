@@ -1,0 +1,134 @@
+Introduction to Computers
+Being a modern-day kid you must have used, seen, or read about computers. This is because they are an 
+integral part of our everyday existence. Be it school, banks, shops, railway stations, hospital or your own 
+home, computers are present everywhere, making our work easier and faster for us. As they are such 
+integral parts of our lives, we must know what they are and how they function. Let us start with defining the 
+term computer formally.
+
+The literal meaning of computer is a device that can calculate. However, modern computers can do a lot 
+more than calculate. 
+
+A Computer is a programmable fast calculating electronic device works according to the user’s requirements.
+It receives input, stores or processes the input as per user instructions and provides output in desired 
+format.
+
+Components of Computer 
+A computer can basically do 3 operations,
+Basic building block of a computer system are
+Basically any computer system contains 3 basic components / units
+
+Input Unit:
+In computing, an input unit is a piece of equipment used to provide data and control signals to a Central 
+processing system (CPU). 
+Ex: Keyboard, Mouse, Scanner, cameras, joysticks, Microphone ……. Etc.
+
+Output Unit:
+An output unit is any piece of equipment which converts information from the CPU into human readable 
+form. It can be text, graphics, tactile, audio, and video. 
+Ex: Monitor, Printer, Speaker, Headphones, and Projector ….. Etc. 
+
+Central processing unit (CPU):
+A central processing unit (CPU), also called a central processor, main processor or just processor, is the 
+electronic circuitry that executes instructions comprising a computer program. The CPU performs basic 
+arithmetic & logic operations, controlling, and input/output (I/O) operations specified by the instructions in 
+the program. This contrasts with external components such as main memory and I/O circuitry, and 
+specialized processors such as graphics processing units (GPUs).
+
+Fetch: Getting, reading, or moving data 
+Execute : Processing of Data 
+Result : The processed 
+information from 
+Central Processing Unit [CPU]
+Input Unit Arithmetic 
+and Logic 
+Unit [ALU]
+Memory Unit [MU]
+Output Unit Control Unit 
+[CU]
+
+Types of Computer :
+
+All the computers that are developed are not alike rather they have different designs and features. Some 
+computers have very high capacity as well as working speed; however, some are slow. Depending upon the 
+requirements, computers are being developed. Computers can be generally classified by size and power as 
+follows, though there is considerable overlap: 
+
+1.Supercomputer: Supercomputer is a board term for one of the fastest 
+computer currently available. Supercomputers are employed for specialized 
+application that requires immense amounts of mathematical calculations.
+2. Mainframe: Mainframe computers are powerful computers used primarily by 
+corporate and governmental organizations for critical applications, bulk data 
+processing such as census. In some ways, mainframes are more power than 
+supercomputers because they support more simultaneous programs.
+3. Minicomputer: It is a mid-size computer. In general, a minicomputer is a 
+multiprocessing system capable of supporting from up to 200 users simultaneously.
+4. Micro Computers (Personal computer): A personal computer can be 
+defined as a small, relatively inexpensive computer designed for an 
+individual user.
+Computer Hardware and Software
+Every computer is composed of two basic components: Hardware and Software.
+Hardware
+Hardware includes the Physical features, which are every part that you can either see or touch, for example: 
+Monitor, Case, Keyboard, Mouse, and Printer.
+There are four main computer hardware components: input devices, processing devices, output devices and 
+memory (storage) devices. Collectively, these hardware components make up the computer system
+Input Devices
+Input devices comprise of any devices that users need in order to give instructions to a computer. 
+Essentially input devices act as the medium for sending data to a computer so that users can interact 
+Computer Components
+Hardware
+Input Devices Output Devices Processing 
+Devices
+Memory 
+(Storage) 
+Devices
+Software
+System 
+Software
+Application 
+Software
+Programming 
+Software
+with and control it. The most widely known examples are the keyboard and mouse. Input devices are 
+also used to transfer data between computers.
+Output Devices
+Output devices are devices that allow computers to send data to other devices or to users. In 
+general, the data that computers send to human users is in forms that we can understand. Most 
+often, these forms include audio and video. The most widely known examples of output devices are 
+monitors, speakers and printers. These devices produce video, audio and graphic output, 
+respectively.
+Processing Devices
+Processing is the core function of any computer. When a computer receives data from an input 
+device, this data must first go through an intermediate stage before it is sent to an output device. 
+Processing is the intermediate stage where raw data is transformed into information so that it can 
+be outputted meaningfully for the user. An example of a processing device is the central processing 
+unit (CPU), which is a set of electronic circuitry that processes and executes instructions
+Memory (Storage) Devices
+Memory devices are any devices that are capable of storing information temporarily or permanently. 
+Software
+The part which activates the physical components called Software. It includes the features that responsible 
+for directing the work to the hardware. Software can be divided into other programs and data.
+There are three main computer Software components: System Software, Application and utility Software, 
+and Programming Software
+System Software
+In case of a system software, it helps the user as well as the hardware to function and even interact 
+with each other easily. Essentially, it is a software which is used to manage the behavior of the 
+computer hardware in order to offer basic functionalities which are needed by the user. In simpler 
+word, it can be said that system software is very essential for a computer system to start and work. 
+It is designed to run a computer's hardware and application programs.
+Ex. Operating System, Compilers, Interpreter, Assemblers, Device Drivers, Firmware etc.
+Application Software
+They are also popularly known as end-user programs or even productivity programs which assist the 
+user in completing various tasks like conducting online research, making notes, designing graphics, 
+maintaining accounts, carrying out calculations or even playing computer games. They essentially lie 
+above the system software. They are actually used by the end-user as well as have specific 
+functionality or tasks which they are designed to perform. These software are often developed 
+through custom software development, based on the requirements of the users. There is a variety of 
+application software. Some of them are:
+Ex. Microsoft Office, Photo Editors, Web Browsers, Adobe Reader, WinZip etc.
+Programming Software
+Programming software is for computer programmers and developers who are writing code. These 
+are programs that are used to write, develop, test, and debug other software programs. Using this 
+software the application software is designed for end-users, and system software is designed for 
+computers or mobile devices.
+Ex. C, C++, Java, Oracle, Visual Studio Etc.

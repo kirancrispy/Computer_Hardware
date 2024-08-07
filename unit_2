@@ -1,0 +1,234 @@
+Hardware Components of Computer System
+
+INPUT DEVICE
+
+In computer input unit is defined as an input device, a piece of 
+computer hardware apparatus used to supply a data processing 
+system including a computer or information device with control and 
+data signals.
+Ex: Mouse, keyboards, scanners, joysticks, and digital cameras.
+Several types of input devices are available to enter raw data into a 
+computer. Each device has its own functions, benefits, and drawbacks, but there are some devices which are 
+most commonly used in all computer systems and they are as follows.
+
+Keyboard
+
+A computer keyboard is an input device used to enter characters and functions into the computer system by 
+pressing buttons, or keys. It is the primary device used to enter text. A keyboard typically contains keys for 
+individual letters, numbers and special characters, as well as keys for specific functions. 
+Most keyboards have a very similar layout. The individual keys for letters, numbers and special characters are 
+collectively called the character keys. The layout of these keys is derived from the original layout of keys on a 
+typewriter. The most widely used layout in the English language is called QWERTY, named after the sequence 
+of the first six letters from the top left.
+Other sets of keys common to almost all keyboards are entering and editing keys (e.g., Enter, Delete, Insert), 
+modifier keys (e.g., Control, Shift), navigation keys (e.g., arrows for up, down, left, right) and lock keys (e.g., 
+Caps Lock). Additional keys are very operating system specific (such as the Windows and Apple keys). 
+Most keyboards also include a set of function keys at the top (F1, F2, etc.). The function keys typically perform 
+a very specific task within a particular software application. So, what they do may depend on what you are 
+doing on your computer at the time. 
+Most keyboards for desktop computers also contain a separate numeric keypad to the right. Even though 
+there are numeric keys already in a row near the top, having them all close together makes it faster to enter 
+numeric data. On smaller keyboards, like those on most laptops, these numeric keypads are typically no longer 
+present due to space constraints.
+Construction & working of a keyboard
+A keyboard is called as a keyboard because it is a board with a number of keys systematically arranged. A 
+keyboard itself works like a computer system. It will have its own controller, a circuit, and rom. Keyboard has 
+a key matrix which is a group of circuits, joined together forming a matrix, this grid of circuits is spread inside 
+the keyboard. This circuit carries information to and from processor, in the form of charge.
+A keyboard matrix is a set of lines arranged in 
+row & column. A key or a switch is placed at the 
+junction of each row & column. When a key is 
+pressed, circuit is completed and a small 
+amount of current flows. The processor senses 
+which key is pressed and maps the location of 
+key and a code is generated based on 
+information in ROM. This code is sent to CPU 
+for further processing.
+
+Types of keyboard
+Based on the construction, facility available and how they are connected we have different types of keyboard
+A. Based on the conductive material used.
+
+1. Mechanical Keyboards.
+Mechanical keyboards are computer keyboards that have switches under each key 
+and these keys are mounted on a PCB. 
+
+2. Membrane Keyboards.
+These keyboards use pressure pads and have characters printed on a flexible 
+surface called membrane.
+
+3. Flexible Keyboards
+The keyboards made of silicone which has most of the keys and flexible in appearance 
+is called a flexible keyboard. The distance between the keys are less. The keyboards 
+are meant for rolling and are not foldable.
+
+4. Projection Keyboards
+The latest trend in handy gadgets is the projection keyboard. In some ways, a 
+projection keyboard is a form of a virtual keyboard usable almost anywhere. 
+The technology depends on lasers to display the image of a keyboard onto any 
+flat hard surface.
+
+5. Virtual Keyboard
+The keyboard used in smartphones is called a virtual keyboard. This keyboard 
+appears when needed and disappears when typing is completed. This can be 
+automatically set as per need. Also in the windows system, we can use a virtual 
+keyboard that appears on the screen. There is no physical object to carry for a 
+virtual keyboard.
+
+B. Based on the facility available.
+
+1. Standard Keyboard
+This is the current 101 to 102-key keyboard that is 
+included in almost all the personal computers (PCs) of 
+nowadays, which has 12 function keys at the top side of it.
+
+2. Multimedia Keyboard.
+A multimedia keyboard are just regular keyboards with media keys — additional 
+buttons, typically along the top, for controlling audio playback, for starting common 
+applications
+
+3. Internet Keyboard.
+A computer keyboard that contains buttons for common Internet 
+functions such as launching the Web browser and email applications
+
+C. Based on how keyboard is connected.
+Keyboards can be categorized into two main categories based on input method. These categories are:
+ Wired keyboards
+ Wireless keyboards
+Wired Keyboards
+A wired keyboard means there is a wire connecting your keyboard to your computer. At the end of the wire 
+is a Connector plug that goes into a port on your computer. Wired keyboards are extremely reliable—there 
+is little that could go wrong with this direct connection.
+The one drawback to having a wired keyboard is that your distance is limited between the keyboard and 
+your computer; you can only have your keyboard as far from your desktop or laptop as the wire length. Also, 
+wires can clutter your desktop.
+Keyboard Connectors
+When a Key on a keyboard is pressed then the chip in the keyboard examines the matrix and decides what 
+data to send into the PC. It preserves these figures in its memory buffer then sends the information. To send 
+these information to the PC Keyboard cables may utilize any one of a variety of 
+connector types.
+
+1. Deutsche Industry Norm (DIN) connector.
+The 5-pin DIN connector has been the very first prevalent non-proprietary 
+keyboard cable connector. It ended up being a little larger than the current 
+connectors, also had five hooks that were oriented asymmetrically to 
+guarantee a suitable connection. This connector can be known as an AT connector, even speaking to 
+this IBM system which popularized the structure. Now, these connectors aren't widely used.
+
+2. 6-Pin Mini-DIN (PS/2 connector).
+The 6-pin mini-DIN connector is a replacement for the original 5-Pin design. This 
+connector is smaller, and is typically colored purple to differentiate it from the 
+similar mouse connector. This type of connector is often referred to as a PS/2 
+connector and is also named for the IBM system that popularized it. This format is 
+widely used in desktop computers.
+
+3. Universal Serial Bus (USB) connectors. 
+USB is one of the keyboard cable connector types. This tiny rectangular 
+connector gives a significant upgrade within the DIN connector forms. USB 
+connectors are hot-swappable, which means you can plug-in or plug-out 
+without turning the machine on or off. AT and PS/2 devices aren't hotswappable.
+Wireless Keyboards
+A wireless keyboard works just like a Cordless Phone or Headset; normally all 
+wireless keyboards have a receiver plugged into the computer usually a USB
+connection but today we have Bluetooth keyboards also. The receiver then sends a 
+signal to your battery-powered keyboard. Keep in mind, wireless USB keyboards do 
+have a limited range and some must be within the line of sight of your receiver, depending on the type of 
+signal it uses. Also, if your cordless keyboard starts acting sluggish, it probably requires new batteries.
+Wireless keyboards present a specific benefit to the consumer. First, wireless USB keyboards reduce wireclutter on your desk. Also, you aren’t tied to your desk.
+
+Mouse
+A computer mouse is a hand-held pointing device that detects two-dimensional motion relative to a surface. 
+This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of 
+the graphical user interface of a computer.
+Equipped with one or more buttons, it can be used to –
+
+1. Select - A mouse also allows you to select text or a file or highlight and select multiple files at once.
+
+2. Open or execute a program - Once you've moved the pointer to an icon, folder, or another object 
+clicking or double-clicking that object opens the document or executes the program.
+
+3. Drag-and-drop - Once something is selected, it can also be moved using the drag-and-drop method.
+
+4. Hover - Moving the mouse cursor over objects with hover information helps discover each object's 
+function. For example, hover the mouse over the "hover" link to see an example.
+
+5. Scroll - When working with a long document or viewing a long web page, you may need to scroll up or 
+down. To scroll, use the mouse wheel, or click-and-drag the scroll bar.
+
+6. Perform other functions - Many desktop mice also have buttons that can be programmed to perform 
+any function. For example, many mice have two side buttons on the thumb portion of the mouse. The 
+button closest to the palm can be programmed to go back to the previously viewed web page in a 
+browser.
+
+Types of computer mouse
+Based on the technology how the movement of mouse is sensed there are different types of mouse devices. 
+Since we use computers for different type and amount of work the technology has gifted us different types 
+of mouse devices to work with. Here is a list of computer mouse devices.
+
+1. Mechanical Mouse:
+Also known as the ball mouse, this is the first type of mouse used 
+during computer operating. It comes with a metal or rubber ball 
+used to scroll down the page. The ball when rolled is detected by 
+the sensors of the mouse, and thus the pointer is directed to move 
+accordingly. The advantage of using a mechanical mouse is that it 
+can work even on a glass surface while the disadvantage is that it 
+cannot work on super smooth surfaces. Also, a mechanical mouse needs to be cleaned regularly in 
+order to maintain the smooth functioning of the computer system.
+
+2. Optical mouse:
+An optical mouse, unlike the previously discussed ones, does not contain a 
+ball. It uses a LED and a light detector which senses the movement relative 
+to the surface. This mouse was invented by Richard Francis Lyon in the 
+year 1980 in the United States. Earlier, the optical mouse was used on preprinted mousepad surface but as if now they work on almost all opaque 
+surfaces and not on some glass surface. Also, since it has an optical light, 
+there isn’t any fear of mechanical failure or dirt accumulation. The 
+movement and efficiency of the mouse depends on the type of surface 
+you are using. A smooth surface provides more efficiency to the device. A 
+major drawback of the device is that the optical light can be damaged by 
+the rough surfaces.
+
+3. Trackball mouse:
+This type of pointing device has a ball as the name suggests. The ball is held by a socket, and the 
+socket senses the rotation of the ball. Also, two buttons are placed in order to allow effective 
+pointing. The usage of this mouse does not allow a whole movement and just the palm of thumb. 
+The user can control the system by using his fingers or the palm. It has 
+been specially designed to provide an easy and hassle-free movement to 
+the user. Also, it is somewhat similar to the mechanical mouse except for 
+the fact that it is not movable but stationary. The trackball mouse is a 
+disable friendly mouse and can be easily used by persons with disability 
+due to its strategic component positioning. A trackball mouse is used for 
+gaming and programming purpose.
+
+4. Joystick Mouse (Pointing Stick):
+Mostly this typed of mouse uses for playing video game and graphic 
+applications. Joystick is like as plastic stick for reporting its directions to 
+component it’s controlling.
+
+5. Touchpad Mouse:
+Touchpad is also known as Glide pad or track pad, use for giving the input 
+to computer. These types of touch pad are place on the laptop or other 
+special keyboards. Users can move the cursor on the screen with their 
+fingers, and other two external buttons are embedded below track pad.
+Mouse Connectors
+It is a dedicated socket used to transmit their input from mouse to the computer system.
+
+1. Serial Connector.
+A serial port is a physical communication interface which is a D-type 9 pin 
+connector through which a mouse is connected to a computer.
+
+2. 6-Pin Mini-DIN (PS/2 connector).
+The PS/2 mouse is connected to the PS/2 port (green in color). The PS/2 
+mouse connector is a 6-pin mini-din connector designed in 1987. It 
+superseded the serial connectors. Its name is derived from IBM's personal 
+systems/2 series of personal computers, which were introduced in 1987.
+
+3. USB Connector.
+The industry-standard USB (Universal Serial Bus) protocol and its connector have 
+become widely used for mice; it’s currently among the most popular types.
+Cordless or wireless
+Cordless or wireless mice transmit data via infrared radiation or radio (including Bluetooth). The receiver is 
+connected to the computer through a serial or USB port, or can be built in (as is sometimes the case with 
+Bluetooth). Modern non-Bluetooth wireless mice use USB receivers. Some of these can be stored inside the 
+mouse for safe transport while not in use, while other, newer mice use newer “nano” receivers, designed to 
+be small enough to remain plugged into a laptop during transport, while still being large enough to easily 
+remove.
